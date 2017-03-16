@@ -176,6 +176,7 @@ Your sources have been sync'd successfully.
   <remove-project name="coreos/coreos-overlay" />
   <project path="src/third_party/coreos-overlay"
            name="glevand/coreos--coreos-overlay"
+           revision="d03-kernel"
            remote="github-https"
            groups="minilayout" />
 
